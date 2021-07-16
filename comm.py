@@ -1,6 +1,6 @@
 import requests, json
 
-BASE = "http://192.168.1.68:5000/"
+BASE = "http://dfmoller.pythonanywhere.com/"
 
 colors = ["black", "red", "blue", "grey", "orange", "silver", "white"]
 years = [2015, 2016, 2017, 2018, 2019, 2020]
