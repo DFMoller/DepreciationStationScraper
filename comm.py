@@ -8,8 +8,10 @@ years = [2015, 2016, 2017, 2018, 2019, 2020]
 with open("log/" + datetime.datetime.now().strftime("%Y-%m-%d") + ".txt", "a") as f:
 
     print("\n****************************************", file=f)
-    print("Fetching all Searches on " + datetime.datetime.now().strftime("%Y-%m-%d, %H:%M:%S"), file=f)
+    print("Adding New Searches on: " + datetime.datetime.now().strftime("%Y-%m-%d, %H:%M:%S"), file=f)
     print("****************************************\n", file=f)
+    
+    print("Adding New Searches...")
 
     for color in colors:
         for year in years:

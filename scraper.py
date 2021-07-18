@@ -12,6 +12,10 @@ def url(color, year, page):
     return base + page_str + '&' + year_str + '&' + color_str
 
 def scrape(f):
+    
+    print("\n****************************************", file=f)
+    print("Getting All Searches on: " + datetime.datetime.now().strftime("%Y-%m-%d, %H:%M:%S"), file=f)
+    print("****************************************\n", file=f)
 
     searches = getSearches()
 
@@ -20,9 +24,9 @@ def scrape(f):
 
     return_data = []
 
-    print("\n****************************************", file=f)
-    print("Fetching Results:", file=f)
-    print("****************************************\n", file=f)
+    print("Scraping...", file=f)
+    
+    print("Scraping...")
 
     for search in searches:
         current_url = url(search['color'], search['year'], 1)
@@ -32,7 +36,7 @@ def scrape(f):
         page_numbers = soup.find('div', class_='b-pagination-bar').find('div', class_='gm-show-inline-block').findChildren()
         pages = int(page_numbers[-1].text) # finds last item in list
 
-        for p in range(pages):
+        for p in range(1):
 
             if p > 0:
                 current_url = url(search['color'], search['year'], p+1)
@@ -76,6 +80,8 @@ def scrape(f):
                         print("ValueError Exception: " + str(err), file=f)
         
     print(len(return_data), file=f)
+    
+    print("Posting Data to DepreciationStation")
 
     print(postReadings(return_data), file=f)
 
@@ -84,6 +90,9 @@ def scrape(f):
 def initiate_scrape():
     with open("log/" + datetime.datetime.now().strftime("%Y-%m-%d") + ".txt", "a") as f:
         try:
+            print("Starting Scrape...")
+            print("Starting Scrape...", file=f)
             scrape(f)
+            print("Scrape Finished: " + datetime.datetime.now().strftime("%Y-%m-%d, %H:%M:%S"))
         except ConnectionError as err:
             print("Connection Error: " + err, file=f)

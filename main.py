@@ -3,6 +3,7 @@ from scraper import initiate_scrape
 
 def myFunction():
     initiate_scrape()
+    print("Schedule Loop Running")
 
 if __name__ == "__main__":
     myFunction()
