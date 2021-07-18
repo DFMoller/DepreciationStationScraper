@@ -1,0 +1,67 @@
+
+****************************************
+Fetching all Searches on 2021-07-18, 15:56:02
+****************************************
+
+{'message': 'Search for Black Cars of 2015 already exists'}
+{'message': 'Search for Black Cars of 2016 already exists'}
+{'message': 'Search for Black Cars of 2017 already exists'}
+{'message': 'Search for Black Cars of 2018 already exists'}
+{'message': 'Search for Black Cars of 2019 already exists'}
+{'message': 'Search for Black Cars of 2020 already exists'}
+{'message': 'Search for Red Cars of 2015 already exists'}
+{'message': 'Search for Red Cars of 2016 already exists'}
+{'message': 'Search for Red Cars of 2017 already exists'}
+{'message': 'Search for Red Cars of 2018 already exists'}
+{'message': 'Search for Red Cars of 2019 already exists'}
+{'message': 'Search for Red Cars of 2020 already exists'}
+{'message': 'Search for Blue Cars of 2015 already exists'}
+{'message': 'Search for Blue Cars of 2016 already exists'}
+{'message': 'Search for Blue Cars of 2017 already exists'}
+{'message': 'Search for Blue Cars of 2018 already exists'}
+{'message': 'Search for Blue Cars of 2019 already exists'}
+{'message': 'Search for Blue Cars of 2020 already exists'}
+{'message': 'Search for Grey Cars of 2015 already exists'}
+{'message': 'Search for Grey Cars of 2016 already exists'}
+{'message': 'Search for Grey Cars of 2017 already exists'}
+{'message': 'Search for Grey Cars of 2018 already exists'}
+{'message': 'Search for Grey Cars of 2019 already exists'}
+{'message': 'Search for Grey Cars of 2020 already exists'}
+{'message': 'Search for Orange Cars of 2015 already exists'}
+{'message': 'Search for Orange Cars of 2016 already exists'}
+{'message': 'Search for Orange Cars of 2017 already exists'}
+{'message': 'Search for Orange Cars of 2018 already exists'}
+{'message': 'Search for Orange Cars of 2019 already exists'}
+{'message': 'Search for Orange Cars of 2020 already exists'}
+{'message': 'Search for Silver Cars of 2015 already exists'}
+{'message': 'Search for Silver Cars of 2016 already exists'}
+{'message': 'Search for Silver Cars of 2017 already exists'}
+{'message': 'Search for Silver Cars of 2018 already exists'}
+{'message': 'Search for Silver Cars of 2019 already exists'}
+{'message': 'Search for Silver Cars of 2020 already exists'}
+{'message': 'Search for White Cars of 2015 already exists'}
+{'message': 'Search for White Cars of 2016 already exists'}
+{'message': 'Search for White Cars of 2017 already exists'}
+{'message': 'Search for White Cars of 2018 already exists'}
+{'message': 'Search for White Cars of 2019 already exists'}
+{'message': 'Search for White Cars of 2020 already exists'}
+
+****************************************
+Fetching Results:
+****************************************
+
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2017-to-2017&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2017-to-2017&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2017-to-2017&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2017-to-2017&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2017-to-2017&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2017-to-2017&colour=Black
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2016-to-2016&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'

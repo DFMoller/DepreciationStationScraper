@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
-from datetime import datetime, date
+import datetime
+from datetime import date
 from comm import getSearches, postReadings    
 
 def url(color, year, page):
@@ -10,26 +11,20 @@ def url(color, year, page):
     color_str = "colour=" + color.lower().capitalize()
     return base + page_str + '&' + year_str + '&' + color_str
 
-def sort_data(data):
-    sorted_data = sorted(data, key=lambda tup: tup[0])
-    return sorted_data
-
-def print_data(data):
-    for i in data:
-        print("Mileage = " + str(i[0]) + "; Price = " + str(i[1]))
-
-
-def scrape():
+def scrape(f):
 
     searches = getSearches()
 
     if not searches:
-        print("No Searches Found")
+        print("ERROR: No Searches Found", file=f)
 
     return_data = []
 
-    for search in searches:
+    print("\n****************************************", file=f)
+    print("Fetching Results:", file=f)
+    print("****************************************\n", file=f)
 
+    for search in searches:
         current_url = url(search['color'], search['year'], 1)
         html_text = requests.get(current_url).text
         soup = BeautifulSoup(html_text, 'lxml')
@@ -45,7 +40,7 @@ def scrape():
                 soup = BeautifulSoup(html_text, 'lxml')
                 search_results = soup.find_all('div', class_='e-available m-has-photos')
 
-            print("Page: " + str(p+1) + ' -> ' + current_url)
+            print("Page: " + str(p+1) + ' -> ' + current_url, file=f)
 
             for index, result in enumerate(search_results):
                 # result_text = result.text.lower()
@@ -78,16 +73,17 @@ def scrape():
                             }
                             return_data.append(data_node)
                     except ValueError as err:
-                        print("ValueError Exception: " + str(err))
+                        print("ValueError Exception: " + str(err), file=f)
         
-    print(len(return_data))
+    print(len(return_data), file=f)
 
-    print(postReadings(return_data))
+    print(postReadings(return_data), file=f)
 
 
 
 def initiate_scrape():
-    try:
-        scrape()
-    except ConnectionError as err:
-        print("Connection Error: " + err)
+    with open("log/" + datetime.datetime.now().strftime("%Y-%m-%d") + ".txt", "a") as f:
+        try:
+            scrape(f)
+        except ConnectionError as err:
+            print("Connection Error: " + err, file=f)
