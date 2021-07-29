@@ -1,6 +1,6 @@
 
 ****************************************
-Adding New Searches on: 2021-07-18, 18:21:04
+Adding New Searches on: 2021-07-23, 21:31:44
 ****************************************
 
 {'message': 'Search for Black Cars of 2015 already exists'}
@@ -48,21 +48,22 @@ Adding New Searches on: 2021-07-18, 18:21:04
 Starting Scrape...
 
 ****************************************
-Getting All Searches on: 2021-07-18, 18:21:26
+Getting All Searches on: 2021-07-23, 21:32:10
 ****************************************
 
 Scraping...
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Black
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Black
 ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=Black
-Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2017-to-2017&colour=Black
-Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2017-to-2017&colour=Black
-Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2017-to-2017&colour=Black
-Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2017-to-2017&colour=Black
-Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2017-to-2017&colour=Black
-Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2017-to-2017&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2015-to-2015&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2015-to-2015&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2015-to-2015&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2015-to-2015&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2015-to-2015&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2015-to-2015&colour=Black
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&year=2015-to-2015&colour=Black
+Number of Results Today: 165
+{'Function': 'POST READINGS DATA', 'current_id': 1, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 165, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Black
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2016-to-2016&colour=Black
 ValueError Exception: invalid literal for int() with base 10: 'POA'
@@ -74,13 +75,73 @@ Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2016-to-
 Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2016-to-2016&colour=Black
 Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2016-to-2016&colour=Black
 Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&year=2016-to-2016&colour=Black
-Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&year=2016-to-2016&colour=Black
+Number of Results Today: 176
+{'Function': 'POST READINGS DATA', 'current_id': 2, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 176, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2017-to-2017&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2017-to-2017&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2017-to-2017&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2017-to-2017&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2017-to-2017&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2017-to-2017&colour=Black
+Number of Results Today: 147
+{'Function': 'POST READINGS DATA', 'current_id': 3, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 147, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Black
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2018-to-2018&colour=Black
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2018-to-2018&colour=Black
 Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2018-to-2018&colour=Black
 Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2018-to-2018&colour=Black
 Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2018-to-2018&colour=Black
+Number of Results Today: 117
+{'Function': 'POST READINGS DATA', 'current_id': 4, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 117, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2019-to-2019&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2019-to-2019&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2019-to-2019&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2019-to-2019&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2019-to-2019&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2019-to-2019&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2019-to-2019&colour=Black
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&year=2019-to-2019&colour=Black
+Number of Results Today: 163
+{'Function': 'POST READINGS DATA', 'current_id': 5, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 163, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2020-to-2020&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2020-to-2020&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2020-to-2020&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2020-to-2020&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2020-to-2020&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2020-to-2020&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2020-to-2020&colour=Black
+Number of Results Today: 156
+{'Function': 'POST READINGS DATA', 'current_id': 6, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 156, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2015-to-2015&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2015-to-2015&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2015-to-2015&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2015-to-2015&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2015-to-2015&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2015-to-2015&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&year=2015-to-2015&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&year=2015-to-2015&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&year=2015-to-2015&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&year=2015-to-2015&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&year=2015-to-2015&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2015-to-2015&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2015-to-2015&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2015-to-2015&colour=Red
+Number of Results Today: 317
+{'Function': 'POST READINGS DATA', 'current_id': 7, 'items_with_empty_parameters': 0, 'items_already_existing': 1, 'new_added': 316, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Red
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2016-to-2016&colour=Red
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2016-to-2016&colour=Red
@@ -98,6 +159,9 @@ Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2016-t
 Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2016-to-2016&colour=Red
 Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2016-to-2016&colour=Red
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2016-to-2016&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&year=2016-to-2016&colour=Red
+Number of Results Today: 348
+{'Function': 'POST READINGS DATA', 'current_id': 8, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 348, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Red
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=Red
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2017-to-2017&colour=Red
@@ -116,6 +180,8 @@ Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2017-t
 Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2017-to-2017&colour=Red
 Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2017-to-2017&colour=Red
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2017-to-2017&colour=Red
+Number of Results Today: 338
+{'Function': 'POST READINGS DATA', 'current_id': 9, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 338, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Red
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2018-to-2018&colour=Red
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2018-to-2018&colour=Red
@@ -131,7 +197,8 @@ Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&year=2018-t
 Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&year=2018-to-2018&colour=Red
 Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2018-to-2018&colour=Red
 Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2018-to-2018&colour=Red
-Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2018-to-2018&colour=Red
+Number of Results Today: 293
+{'Function': 'POST READINGS DATA', 'current_id': 10, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 293, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Red
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2019-to-2019&colour=Red
 ValueError Exception: invalid literal for int() with base 10: 'POA'
@@ -151,6 +218,8 @@ Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2019-t
 Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2019-to-2019&colour=Red
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2019-to-2019&colour=Red
 Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&year=2019-to-2019&colour=Red
+Number of Results Today: 348
+{'Function': 'POST READINGS DATA', 'current_id': 11, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 348, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Red
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2020-to-2020&colour=Red
@@ -170,51 +239,9 @@ Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2020-t
 Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2020-to-2020&colour=Red
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2020-to-2020&colour=Red
 Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&year=2020-to-2020&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=Black
-Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2015-to-2015&colour=Black
-Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2015-to-2015&colour=Black
-Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2015-to-2015&colour=Black
-Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2015-to-2015&colour=Black
-Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2015-to-2015&colour=Black
-Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2015-to-2015&colour=Black
-Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&year=2015-to-2015&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2019-to-2019&colour=Black
-Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2019-to-2019&colour=Black
-Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2019-to-2019&colour=Black
-Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2019-to-2019&colour=Black
-Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2019-to-2019&colour=Black
-Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2019-to-2019&colour=Black
-Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2019-to-2019&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2020-to-2020&colour=Black
-Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2020-to-2020&colour=Black
-Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2020-to-2020&colour=Black
-Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2020-to-2020&colour=Black
-Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2020-to-2020&colour=Black
-Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2020-to-2020&colour=Black
-Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2020-to-2020&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Red
-Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=Red
-Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2015-to-2015&colour=Red
-Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2015-to-2015&colour=Red
-Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2015-to-2015&colour=Red
-Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2015-to-2015&colour=Red
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2015-to-2015&colour=Red
-Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2015-to-2015&colour=Red
-Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&year=2015-to-2015&colour=Red
-Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&year=2015-to-2015&colour=Red
-Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&year=2015-to-2015&colour=Red
-Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&year=2015-to-2015&colour=Red
-Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&year=2015-to-2015&colour=Red
-Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2015-to-2015&colour=Red
-Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2015-to-2015&colour=Red
-Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2015-to-2015&colour=Red
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&year=2020-to-2020&colour=Red
+Number of Results Today: 363
+{'Function': 'POST READINGS DATA', 'current_id': 12, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 363, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Blue
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=Blue
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2015-to-2015&colour=Blue
@@ -230,6 +257,8 @@ Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&year=2015-t
 Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&year=2015-to-2015&colour=Blue
 Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2015-to-2015&colour=Blue
 Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2015-to-2015&colour=Blue
+Number of Results Today: 281
+{'Function': 'POST READINGS DATA', 'current_id': 13, 'items_with_empty_parameters': 0, 'items_already_existing': 1, 'new_added': 280, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Blue
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2016-to-2016&colour=Blue
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2016-to-2016&colour=Blue
@@ -249,6 +278,8 @@ Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2016-t
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2016-to-2016&colour=Blue
 Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&year=2016-to-2016&colour=Blue
 Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&year=2016-to-2016&colour=Blue
+Number of Results Today: 372
+{'Function': 'POST READINGS DATA', 'current_id': 14, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 372, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Blue
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=Blue
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2017-to-2017&colour=Blue
@@ -270,6 +301,8 @@ Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2017-t
 Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&year=2017-to-2017&colour=Blue
 Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&year=2017-to-2017&colour=Blue
 Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&year=2017-to-2017&colour=Blue
+Number of Results Today: 382
+{'Function': 'POST READINGS DATA', 'current_id': 15, 'items_with_empty_parameters': 0, 'items_already_existing': 2, 'new_added': 380, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Blue
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2018-to-2018&colour=Blue
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2018-to-2018&colour=Blue
@@ -287,6 +320,8 @@ Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2018-t
 Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2018-to-2018&colour=Blue
 Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2018-to-2018&colour=Blue
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2018-to-2018&colour=Blue
+Number of Results Today: 337
+{'Function': 'POST READINGS DATA', 'current_id': 16, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 337, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Blue
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2019-to-2019&colour=Blue
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2019-to-2019&colour=Blue
@@ -305,6 +340,8 @@ Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2019-t
 Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2019-to-2019&colour=Blue
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2019-to-2019&colour=Blue
 Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&year=2019-to-2019&colour=Blue
+Number of Results Today: 359
+{'Function': 'POST READINGS DATA', 'current_id': 17, 'items_with_empty_parameters': 0, 'items_already_existing': 2, 'new_added': 357, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Blue
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 ValueError Exception: invalid literal for int() with base 10: 'POA'
@@ -332,6 +369,8 @@ Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&year=2020-t
 Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&year=2020-to-2020&colour=Blue
 Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&year=2020-to-2020&colour=Blue
 Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&year=2020-to-2020&colour=Blue
+Number of Results Today: 451
+{'Function': 'POST READINGS DATA', 'current_id': 18, 'items_with_empty_parameters': 0, 'items_already_existing': 1, 'new_added': 450, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Grey
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=Grey
@@ -356,6 +395,8 @@ Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&year=2015-t
 Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&year=2015-to-2015&colour=Grey
 Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&year=2015-to-2015&colour=Grey
 Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&year=2015-to-2015&colour=Grey
+Number of Results Today: 447
+{'Function': 'POST READINGS DATA', 'current_id': 19, 'items_with_empty_parameters': 0, 'items_already_existing': 3, 'new_added': 444, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Grey
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2016-to-2016&colour=Grey
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2016-to-2016&colour=Grey
@@ -383,6 +424,8 @@ Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&year=2016-t
 Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&year=2016-to-2016&colour=Grey
 Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&year=2016-to-2016&colour=Grey
 Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&year=2016-to-2016&colour=Grey
+Number of Results Today: 530
+{'Function': 'POST READINGS DATA', 'current_id': 20, 'items_with_empty_parameters': 0, 'items_already_existing': 2, 'new_added': 528, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Grey
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=Grey
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2017-to-2017&colour=Grey
@@ -411,6 +454,9 @@ Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&year=2017-t
 Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&year=2017-to-2017&colour=Grey
 Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&year=2017-to-2017&colour=Grey
 Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&year=2017-to-2017&colour=Grey
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&year=2017-to-2017&colour=Grey
+Number of Results Today: 548
+{'Function': 'POST READINGS DATA', 'current_id': 21, 'items_with_empty_parameters': 0, 'items_already_existing': 5, 'new_added': 543, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Grey
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2018-to-2018&colour=Grey
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2018-to-2018&colour=Grey
@@ -428,8 +474,8 @@ Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2018-t
 Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&year=2018-to-2018&colour=Grey
 Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2018-to-2018&colour=Grey
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2018-to-2018&colour=Grey
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&year=2018-to-2018&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&year=2018-to-2018&colour=Grey
 Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&year=2018-to-2018&colour=Grey
 Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&year=2018-to-2018&colour=Grey
@@ -443,6 +489,8 @@ Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&year=2018-t
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&year=2018-to-2018&colour=Grey
 Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&year=2018-to-2018&colour=Grey
+Number of Results Today: 597
+{'Function': 'POST READINGS DATA', 'current_id': 22, 'items_with_empty_parameters': 0, 'items_already_existing': 3, 'new_added': 594, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Grey
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2019-to-2019&colour=Grey
@@ -472,8 +520,12 @@ Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&year=2019-t
 Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&year=2019-to-2019&colour=Grey
 Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&year=2019-to-2019&colour=Grey
 Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&year=2019-to-2019&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&year=2019-to-2019&colour=Grey
 Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&year=2019-to-2019&colour=Grey
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&year=2019-to-2019&colour=Grey
+Number of Results Today: 603
+{'Function': 'POST READINGS DATA', 'current_id': 23, 'items_with_empty_parameters': 0, 'items_already_existing': 6, 'new_added': 597, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Grey
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2020-to-2020&colour=Grey
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2020-to-2020&colour=Grey
@@ -505,34 +557,49 @@ Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&year=2020-t
 Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&year=2020-to-2020&colour=Grey
 Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&year=2020-to-2020&colour=Grey
 Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&year=2020-to-2020&colour=Grey
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&year=2020-to-2020&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&year=2020-to-2020&colour=Grey
 Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&year=2020-to-2020&colour=Grey
 Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&year=2020-to-2020&colour=Grey
 Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&year=2020-to-2020&colour=Grey
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&year=2020-to-2020&colour=Grey
+Number of Results Today: 684
+{'Function': 'POST READINGS DATA', 'current_id': 24, 'items_with_empty_parameters': 0, 'items_already_existing': 2, 'new_added': 682, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Orange
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=Orange
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2015-to-2015&colour=Orange
+Number of Results Today: 56
+{'Function': 'POST READINGS DATA', 'current_id': 25, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 56, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Orange
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2016-to-2016&colour=Orange
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2016-to-2016&colour=Orange
+Number of Results Today: 54
+{'Function': 'POST READINGS DATA', 'current_id': 26, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 54, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Orange
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=Orange
+Number of Results Today: 31
+{'Function': 'POST READINGS DATA', 'current_id': 27, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 31, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Orange
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2018-to-2018&colour=Orange
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2018-to-2018&colour=Orange
 Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2018-to-2018&colour=Orange
+Number of Results Today: 79
+{'Function': 'POST READINGS DATA', 'current_id': 28, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 79, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Orange
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2019-to-2019&colour=Orange
-Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2019-to-2019&colour=Orange
 ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2019-to-2019&colour=Orange
 Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2019-to-2019&colour=Orange
 Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2019-to-2019&colour=Orange
+Number of Results Today: 91
+{'Function': 'POST READINGS DATA', 'current_id': 29, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 91, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Orange
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2020-to-2020&colour=Orange
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2020-to-2020&colour=Orange
 Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&year=2020-to-2020&colour=Orange
+Number of Results Today: 66
+{'Function': 'POST READINGS DATA', 'current_id': 30, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 66, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Silver
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=Silver
 ValueError Exception: invalid literal for int() with base 10: 'POA'
@@ -581,6 +648,8 @@ Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&year=2015-t
 Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&year=2015-to-2015&colour=Silver
 Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&year=2015-to-2015&colour=Silver
 Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&year=2015-to-2015&colour=Silver
+Number of Results Today: 903
+{'Function': 'POST READINGS DATA', 'current_id': 31, 'items_with_empty_parameters': 0, 'items_already_existing': 9, 'new_added': 894, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Silver
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2016-to-2016&colour=Silver
@@ -633,13 +702,14 @@ Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&year=2016-t
 Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&year=2016-to-2016&colour=Silver
 Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&year=2016-to-2016&colour=Silver
 Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&year=2016-to-2016&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&year=2016-to-2016&colour=Silver
 Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&year=2016-to-2016&colour=Silver
 Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&year=2016-to-2016&colour=Silver
 Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&year=2016-to-2016&colour=Silver
 Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&year=2016-to-2016&colour=Silver
 Page: 57 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=57&year=2016-to-2016&colour=Silver
+Number of Results Today: 1137
+{'Function': 'POST READINGS DATA', 'current_id': 32, 'items_with_empty_parameters': 0, 'items_already_existing': 11, 'new_added': 1126, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Silver
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=Silver
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2017-to-2017&colour=Silver
@@ -698,7 +768,8 @@ Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&year=2017-t
 Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&year=2017-to-2017&colour=Silver
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&year=2017-to-2017&colour=Silver
-Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&year=2017-to-2017&colour=Silver
+Number of Results Today: 1092
+{'Function': 'POST READINGS DATA', 'current_id': 33, 'items_with_empty_parameters': 0, 'items_already_existing': 10, 'new_added': 1082, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Silver
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 ValueError Exception: invalid literal for int() with base 10: 'POA'
@@ -749,7 +820,8 @@ Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&year=2018-t
 Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&year=2018-to-2018&colour=Silver
 Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&year=2018-to-2018&colour=Silver
 Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&year=2018-to-2018&colour=Silver
-Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&year=2018-to-2018&colour=Silver
+Number of Results Today: 945
+{'Function': 'POST READINGS DATA', 'current_id': 34, 'items_with_empty_parameters': 0, 'items_already_existing': 7, 'new_added': 938, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Silver
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2019-to-2019&colour=Silver
@@ -803,11 +875,12 @@ Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&year=2019-t
 Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&year=2019-to-2019&colour=Silver
 Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&year=2019-to-2019&colour=Silver
 Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&year=2019-to-2019&colour=Silver
-Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&year=2019-to-2019&colour=Silver
 ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&year=2019-to-2019&colour=Silver
 Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&year=2019-to-2019&colour=Silver
 Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&year=2019-to-2019&colour=Silver
-Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&year=2019-to-2019&colour=Silver
+Number of Results Today: 1086
+{'Function': 'POST READINGS DATA', 'current_id': 35, 'items_with_empty_parameters': 0, 'items_already_existing': 8, 'new_added': 1078, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Silver
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2020-to-2020&colour=Silver
@@ -883,6 +956,11 @@ Page: 71 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=71&year=2020-t
 Page: 72 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=72&year=2020-to-2020&colour=Silver
 Page: 73 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=73&year=2020-to-2020&colour=Silver
 Page: 74 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=74&year=2020-to-2020&colour=Silver
+Page: 75 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=75&year=2020-to-2020&colour=Silver
+Page: 76 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=76&year=2020-to-2020&colour=Silver
+Page: 77 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=77&year=2020-to-2020&colour=Silver
+Number of Results Today: 1522
+{'Function': 'POST READINGS DATA', 'current_id': 36, 'items_with_empty_parameters': 0, 'items_already_existing': 25, 'new_added': 1497, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=White
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2015-to-2015&colour=White
 ValueError Exception: invalid literal for int() with base 10: 'POA'
@@ -892,11 +970,12 @@ ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2015-to-2015&colour=White
 Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2015-to-2015&colour=White
 Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2015-to-2015&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2015-to-2015&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&year=2015-to-2015&colour=White
 Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&year=2015-to-2015&colour=White
 Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&year=2015-to-2015&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&year=2015-to-2015&colour=White
 Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&year=2015-to-2015&colour=White
 Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&year=2015-to-2015&colour=White
@@ -1011,6 +1090,8 @@ Page: 121 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=121&year=2015
 Page: 122 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=122&year=2015-to-2015&colour=White
 Page: 123 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=123&year=2015-to-2015&colour=White
 Page: 124 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=124&year=2015-to-2015&colour=White
+Number of Results Today: 2468
+{'Function': 'POST READINGS DATA', 'current_id': 37, 'items_with_empty_parameters': 0, 'items_already_existing': 48, 'new_added': 2420, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=White
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2016-to-2016&colour=White
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2016-to-2016&colour=White
@@ -1164,6 +1245,8 @@ Page: 147 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=147&year=2016
 Page: 148 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=148&year=2016-to-2016&colour=White
 Page: 149 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=149&year=2016-to-2016&colour=White
 ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 2958
+{'Function': 'POST READINGS DATA', 'current_id': 38, 'items_with_empty_parameters': 0, 'items_already_existing': 107, 'new_added': 2851, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=White
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2017-to-2017&colour=White
@@ -1210,6 +1293,7 @@ Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&year=2017-t
 Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&year=2017-to-2017&colour=White
 Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&year=2017-to-2017&colour=White
 Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&year=2017-to-2017&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&year=2017-to-2017&colour=White
 Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&year=2017-to-2017&colour=White
 Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&year=2017-to-2017&colour=White
@@ -1304,9 +1388,9 @@ Page: 136 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=136&year=2017
 Page: 137 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=137&year=2017-to-2017&colour=White
 Page: 138 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=138&year=2017-to-2017&colour=White
 Page: 139 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=139&year=2017-to-2017&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 140 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=140&year=2017-to-2017&colour=White
 Page: 141 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=141&year=2017-to-2017&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 142 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=142&year=2017-to-2017&colour=White
 Page: 143 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=143&year=2017-to-2017&colour=White
 Page: 144 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=144&year=2017-to-2017&colour=White
@@ -1322,11 +1406,15 @@ Page: 153 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=153&year=2017
 Page: 154 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=154&year=2017-to-2017&colour=White
 Page: 155 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=155&year=2017-to-2017&colour=White
 Page: 156 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=156&year=2017-to-2017&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 157 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=157&year=2017-to-2017&colour=White
 Page: 158 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=158&year=2017-to-2017&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 159 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=159&year=2017-to-2017&colour=White
 Page: 160 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=160&year=2017-to-2017&colour=White
+Page: 161 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=161&year=2017-to-2017&colour=White
+Page: 162 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=162&year=2017-to-2017&colour=White
+Number of Results Today: 3217
+{'Function': 'POST READINGS DATA', 'current_id': 39, 'items_with_empty_parameters': 0, 'items_already_existing': 81, 'new_added': 3136, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=White
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 ValueError Exception: invalid literal for int() with base 10: 'POA'
@@ -1383,7 +1471,6 @@ Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&year=2018-t
 Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&year=2018-to-2018&colour=White
 Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&year=2018-to-2018&colour=White
 Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&year=2018-to-2018&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&year=2018-to-2018&colour=White
 Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&year=2018-to-2018&colour=White
 Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&year=2018-to-2018&colour=White
@@ -1399,7 +1486,6 @@ Page: 65 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=65&year=2018-t
 Page: 66 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=66&year=2018-to-2018&colour=White
 Page: 67 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=67&year=2018-to-2018&colour=White
 Page: 68 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=68&year=2018-to-2018&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 69 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=69&year=2018-to-2018&colour=White
 Page: 70 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=70&year=2018-to-2018&colour=White
 Page: 71 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=71&year=2018-to-2018&colour=White
@@ -1482,7 +1568,8 @@ Page: 147 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=147&year=2018
 Page: 148 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=148&year=2018-to-2018&colour=White
 Page: 149 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=149&year=2018-to-2018&colour=White
 Page: 150 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=150&year=2018-to-2018&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 2992
+{'Function': 'POST READINGS DATA', 'current_id': 40, 'items_with_empty_parameters': 0, 'items_already_existing': 89, 'new_added': 2903, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=White
 Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&year=2019-to-2019&colour=White
 Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&year=2019-to-2019&colour=White
@@ -1519,7 +1606,6 @@ Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&year=2019-t
 Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&year=2019-to-2019&colour=White
 Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&year=2019-to-2019&colour=White
 Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&year=2019-to-2019&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&year=2019-to-2019&colour=White
 Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&year=2019-to-2019&colour=White
 Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&year=2019-to-2019&colour=White
@@ -1539,7 +1625,6 @@ Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&year=2019-t
 Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&year=2019-to-2019&colour=White
 Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&year=2019-to-2019&colour=White
 Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&year=2019-to-2019&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&year=2019-to-2019&colour=White
 Page: 57 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=57&year=2019-to-2019&colour=White
 Page: 58 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=58&year=2019-to-2019&colour=White
@@ -1644,6 +1729,8 @@ Page: 156 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=156&year=2019
 Page: 157 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=157&year=2019-to-2019&colour=White
 Page: 158 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=158&year=2019-to-2019&colour=White
 Page: 159 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=159&year=2019-to-2019&colour=White
+Number of Results Today: 3169
+{'Function': 'POST READINGS DATA', 'current_id': 41, 'items_with_empty_parameters': 0, 'items_already_existing': 87, 'new_added': 3082, 'committed': True}
 Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=White
 ValueError Exception: invalid literal for int() with base 10: 'POA'
 ValueError Exception: invalid literal for int() with base 10: 'POA'
@@ -1655,7 +1742,6 @@ Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&year=2020-to-
 Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&year=2020-to-2020&colour=White
 Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&year=2020-to-2020&colour=White
 Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&year=2020-to-2020&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&year=2020-to-2020&colour=White
 Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&year=2020-to-2020&colour=White
 Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&year=2020-to-2020&colour=White
@@ -1667,7 +1753,6 @@ Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&year=2020-t
 Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&year=2020-to-2020&colour=White
 Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&year=2020-to-2020&colour=White
 Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&year=2020-to-2020&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&year=2020-to-2020&colour=White
 Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&year=2020-to-2020&colour=White
 Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&year=2020-to-2020&colour=White
@@ -1749,7 +1834,6 @@ Page: 96 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=96&year=2020-t
 Page: 97 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=97&year=2020-to-2020&colour=White
 Page: 98 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=98&year=2020-to-2020&colour=White
 Page: 99 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=99&year=2020-to-2020&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
 Page: 100 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=100&year=2020-to-2020&colour=White
 Page: 101 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=101&year=2020-to-2020&colour=White
 Page: 102 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=102&year=2020-to-2020&colour=White
@@ -1818,425 +1902,11 @@ Page: 164 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=164&year=2020
 Page: 165 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=165&year=2020-to-2020&colour=White
 Page: 166 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=166&year=2020-to-2020&colour=White
 Page: 167 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=167&year=2020-to-2020&colour=White
-33581
-
-****************************************
-Adding New Searches on: 2021-07-18, 18:59:34
-****************************************
-
-{'message': 'Search for Black Cars of 2015 already exists'}
-{'message': 'Search for Black Cars of 2016 already exists'}
-{'message': 'Search for Black Cars of 2017 already exists'}
-{'message': 'Search for Black Cars of 2018 already exists'}
-{'message': 'Search for Black Cars of 2019 already exists'}
-{'message': 'Search for Black Cars of 2020 already exists'}
-{'message': 'Search for Red Cars of 2015 already exists'}
-{'message': 'Search for Red Cars of 2016 already exists'}
-{'message': 'Search for Red Cars of 2017 already exists'}
-{'message': 'Search for Red Cars of 2018 already exists'}
-{'message': 'Search for Red Cars of 2019 already exists'}
-{'message': 'Search for Red Cars of 2020 already exists'}
-{'message': 'Search for Blue Cars of 2015 already exists'}
-{'message': 'Search for Blue Cars of 2016 already exists'}
-{'message': 'Search for Blue Cars of 2017 already exists'}
-{'message': 'Search for Blue Cars of 2018 already exists'}
-{'message': 'Search for Blue Cars of 2019 already exists'}
-{'message': 'Search for Blue Cars of 2020 already exists'}
-{'message': 'Search for Grey Cars of 2015 already exists'}
-{'message': 'Search for Grey Cars of 2016 already exists'}
-{'message': 'Search for Grey Cars of 2017 already exists'}
-{'message': 'Search for Grey Cars of 2018 already exists'}
-{'message': 'Search for Grey Cars of 2019 already exists'}
-{'message': 'Search for Grey Cars of 2020 already exists'}
-{'message': 'Search for Orange Cars of 2015 already exists'}
-{'message': 'Search for Orange Cars of 2016 already exists'}
-{'message': 'Search for Orange Cars of 2017 already exists'}
-{'message': 'Search for Orange Cars of 2018 already exists'}
-{'message': 'Search for Orange Cars of 2019 already exists'}
-{'message': 'Search for Orange Cars of 2020 already exists'}
-{'message': 'Search for Silver Cars of 2015 already exists'}
-{'message': 'Search for Silver Cars of 2016 already exists'}
-{'message': 'Search for Silver Cars of 2017 already exists'}
-{'message': 'Search for Silver Cars of 2018 already exists'}
-{'message': 'Search for Silver Cars of 2019 already exists'}
-{'message': 'Search for Silver Cars of 2020 already exists'}
-{'message': 'Search for White Cars of 2015 already exists'}
-{'message': 'Search for White Cars of 2016 already exists'}
-{'message': 'Search for White Cars of 2017 already exists'}
-{'message': 'Search for White Cars of 2018 already exists'}
-{'message': 'Search for White Cars of 2019 already exists'}
-{'message': 'Search for White Cars of 2020 already exists'}
-Starting Scrape...
-
-****************************************
-Getting All Searches on: 2021-07-18, 19:00:01
-****************************************
-
-Scraping...
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Red
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Blue
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Grey
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Grey
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Silver
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Silver
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-816
-{'Function': 'POST READINGS DATA', 'items_with_empty_parameters': 0, 'items_already_existing': 816, 'new_added': 0, 'committed': False}
-
-****************************************
-Adding New Searches on: 2021-07-18, 19:03:31
-****************************************
-
-{'message': 'Search for Black Cars of 2015 already exists'}
-{'message': 'Search for Black Cars of 2016 already exists'}
-{'message': 'Search for Black Cars of 2017 already exists'}
-{'message': 'Search for Black Cars of 2018 already exists'}
-{'message': 'Search for Black Cars of 2019 already exists'}
-{'message': 'Search for Black Cars of 2020 already exists'}
-{'message': 'Search for Red Cars of 2015 already exists'}
-{'message': 'Search for Red Cars of 2016 already exists'}
-{'message': 'Search for Red Cars of 2017 already exists'}
-{'message': 'Search for Red Cars of 2018 already exists'}
-{'message': 'Search for Red Cars of 2019 already exists'}
-{'message': 'Search for Red Cars of 2020 already exists'}
-{'message': 'Search for Blue Cars of 2015 already exists'}
-{'message': 'Search for Blue Cars of 2016 already exists'}
-{'message': 'Search for Blue Cars of 2017 already exists'}
-{'message': 'Search for Blue Cars of 2018 already exists'}
-{'message': 'Search for Blue Cars of 2019 already exists'}
-{'message': 'Search for Blue Cars of 2020 already exists'}
-{'message': 'Search for Grey Cars of 2015 already exists'}
-{'message': 'Search for Grey Cars of 2016 already exists'}
-{'message': 'Search for Grey Cars of 2017 already exists'}
-{'message': 'Search for Grey Cars of 2018 already exists'}
-{'message': 'Search for Grey Cars of 2019 already exists'}
-{'message': 'Search for Grey Cars of 2020 already exists'}
-{'message': 'Search for Orange Cars of 2015 already exists'}
-{'message': 'Search for Orange Cars of 2016 already exists'}
-{'message': 'Search for Orange Cars of 2017 already exists'}
-{'message': 'Search for Orange Cars of 2018 already exists'}
-{'message': 'Search for Orange Cars of 2019 already exists'}
-{'message': 'Search for Orange Cars of 2020 already exists'}
-{'message': 'Search for Silver Cars of 2015 already exists'}
-{'message': 'Search for Silver Cars of 2016 already exists'}
-{'message': 'Search for Silver Cars of 2017 already exists'}
-{'message': 'Search for Silver Cars of 2018 already exists'}
-{'message': 'Search for Silver Cars of 2019 already exists'}
-{'message': 'Search for Silver Cars of 2020 already exists'}
-{'message': 'Search for White Cars of 2015 already exists'}
-{'message': 'Search for White Cars of 2016 already exists'}
-{'message': 'Search for White Cars of 2017 already exists'}
-{'message': 'Search for White Cars of 2018 already exists'}
-{'message': 'Search for White Cars of 2019 already exists'}
-{'message': 'Search for White Cars of 2020 already exists'}
-Starting Scrape...
-
-****************************************
-Getting All Searches on: 2021-07-18, 19:04:01
-****************************************
-
-Scraping...
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Red
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Blue
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Grey
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Grey
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Silver
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Silver
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-816
-{'Function': 'POST READINGS DATA', 'items_with_empty_parameters': 0, 'items_already_existing': 816, 'new_added': 0, 'committed': False}
-
-****************************************
-Adding New Searches on: 2021-07-18, 19:08:53
-****************************************
-
-{'message': 'Search for Black Cars of 2015 already exists'}
-{'message': 'Search for Black Cars of 2016 already exists'}
-{'message': 'Search for Black Cars of 2017 already exists'}
-{'message': 'Search for Black Cars of 2018 already exists'}
-{'message': 'Search for Black Cars of 2019 already exists'}
-{'message': 'Search for Black Cars of 2020 already exists'}
-{'message': 'Search for Red Cars of 2015 already exists'}
-{'message': 'Search for Red Cars of 2016 already exists'}
-{'message': 'Search for Red Cars of 2017 already exists'}
-{'message': 'Search for Red Cars of 2018 already exists'}
-{'message': 'Search for Red Cars of 2019 already exists'}
-{'message': 'Search for Red Cars of 2020 already exists'}
-{'message': 'Search for Blue Cars of 2015 already exists'}
-{'message': 'Search for Blue Cars of 2016 already exists'}
-{'message': 'Search for Blue Cars of 2017 already exists'}
-{'message': 'Search for Blue Cars of 2018 already exists'}
-{'message': 'Search for Blue Cars of 2019 already exists'}
-{'message': 'Search for Blue Cars of 2020 already exists'}
-{'message': 'Search for Grey Cars of 2015 already exists'}
-{'message': 'Search for Grey Cars of 2016 already exists'}
-{'message': 'Search for Grey Cars of 2017 already exists'}
-{'message': 'Search for Grey Cars of 2018 already exists'}
-{'message': 'Search for Grey Cars of 2019 already exists'}
-{'message': 'Search for Grey Cars of 2020 already exists'}
-{'message': 'Search for Orange Cars of 2015 already exists'}
-{'message': 'Search for Orange Cars of 2016 already exists'}
-{'message': 'Search for Orange Cars of 2017 already exists'}
-{'message': 'Search for Orange Cars of 2018 already exists'}
-{'message': 'Search for Orange Cars of 2019 already exists'}
-{'message': 'Search for Orange Cars of 2020 already exists'}
-{'message': 'Search for Silver Cars of 2015 already exists'}
-{'message': 'Search for Silver Cars of 2016 already exists'}
-{'message': 'Search for Silver Cars of 2017 already exists'}
-{'message': 'Search for Silver Cars of 2018 already exists'}
-{'message': 'Search for Silver Cars of 2019 already exists'}
-{'message': 'Search for Silver Cars of 2020 already exists'}
-{'message': 'Search for White Cars of 2015 already exists'}
-{'message': 'Search for White Cars of 2016 already exists'}
-{'message': 'Search for White Cars of 2017 already exists'}
-{'message': 'Search for White Cars of 2018 already exists'}
-{'message': 'Search for White Cars of 2019 already exists'}
-{'message': 'Search for White Cars of 2020 already exists'}
-Starting Scrape...
-
-****************************************
-Getting All Searches on: 2021-07-18, 19:09:24
-****************************************
-
-Scraping...
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Black
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Red
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Black
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Red
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Blue
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Blue
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Grey
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Grey
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Grey
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Orange
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=Silver
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=Silver
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=Silver
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2015-to-2015&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2016-to-2016&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2017-to-2017&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2018-to-2018&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2019-to-2019&colour=White
-Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&year=2020-to-2020&colour=White
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-ValueError Exception: invalid literal for int() with base 10: 'POA'
-816
-{'Function': 'POST READINGS DATA', 'items_with_empty_parameters': 0, 'items_already_existing': 816, 'new_added': 0, 'committed': False}
-
-****************************************
-Adding New Searches on: 2021-07-18, 19:43:26
-****************************************
-
-{'message': 'Search for Black Cars of 2015 already exists'}
-{'message': 'Search for Black Cars of 2016 already exists'}
-{'message': 'Search for Black Cars of 2017 already exists'}
-{'message': 'Search for Black Cars of 2018 already exists'}
-{'message': 'Search for Black Cars of 2019 already exists'}
-{'message': 'Search for Black Cars of 2020 already exists'}
-{'message': 'Search for Red Cars of 2015 already exists'}
-{'message': 'Search for Red Cars of 2016 already exists'}
-{'message': 'Search for Red Cars of 2017 already exists'}
-{'message': 'Search for Red Cars of 2018 already exists'}
-{'message': 'Search for Red Cars of 2019 already exists'}
-{'message': 'Search for Red Cars of 2020 already exists'}
-{'message': 'Search for Blue Cars of 2015 already exists'}
-{'message': 'Search for Blue Cars of 2016 already exists'}
-{'message': 'Search for Blue Cars of 2017 already exists'}
-{'message': 'Search for Blue Cars of 2018 already exists'}
-{'message': 'Search for Blue Cars of 2019 already exists'}
-{'message': 'Search for Blue Cars of 2020 already exists'}
-{'message': 'Search for Grey Cars of 2015 already exists'}
-{'message': 'Search for Grey Cars of 2016 already exists'}
-{'message': 'Search for Grey Cars of 2017 already exists'}
-{'message': 'Search for Grey Cars of 2018 already exists'}
-{'message': 'Search for Grey Cars of 2019 already exists'}
-{'message': 'Search for Grey Cars of 2020 already exists'}
-{'message': 'Search for Orange Cars of 2015 already exists'}
-{'message': 'Search for Orange Cars of 2016 already exists'}
-{'message': 'Search for Orange Cars of 2017 already exists'}
-{'message': 'Search for Orange Cars of 2018 already exists'}
-{'message': 'Search for Orange Cars of 2019 already exists'}
-{'message': 'Search for Orange Cars of 2020 already exists'}
-{'message': 'Search for Silver Cars of 2015 already exists'}
-{'message': 'Search for Silver Cars of 2016 already exists'}
-{'message': 'Search for Silver Cars of 2017 already exists'}
-{'message': 'Search for Silver Cars of 2018 already exists'}
-{'message': 'Search for Silver Cars of 2019 already exists'}
-{'message': 'Search for Silver Cars of 2020 already exists'}
-{'message': 'Search for White Cars of 2015 already exists'}
-{'message': 'Search for White Cars of 2016 already exists'}
-{'message': 'Search for White Cars of 2017 already exists'}
-{'message': 'Search for White Cars of 2018 already exists'}
-{'message': 'Search for White Cars of 2019 already exists'}
-
-****************************************
-Adding New Searches on: 2021-07-18, 20:10:07
-****************************************
-
-{'message': 'Search for Black Cars of 2015 already exists'}
-{'message': 'Search for Black Cars of 2016 already exists'}
-{'message': 'Search for Black Cars of 2017 already exists'}
-{'message': 'Search for Black Cars of 2018 already exists'}
+Page: 168 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=168&year=2020-to-2020&colour=White
+Page: 169 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=169&year=2020-to-2020&colour=White
+Page: 170 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=170&year=2020-to-2020&colour=White
+Page: 171 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=171&year=2020-to-2020&colour=White
+Number of Results Today: 3406
+{'Function': 'POST READINGS DATA', 'current_id': 42, 'items_with_empty_parameters': 0, 'items_already_existing': 130, 'new_added': 3276, 'committed': True}
+{'Function': 'Add History', 'Entries added': 42, 'Duplicate entries': 0}
+{'Function': 'Delete old entries', 'Status': 'New entries exist', 'Entries deleted': 0}

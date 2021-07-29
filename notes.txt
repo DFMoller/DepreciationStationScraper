@@ -1,0 +1,2 @@
+Kill the process from CMD
+sudo kill `cat /tmp/app.pid`

@@ -1,9 +1,13 @@
-import schedule, time
-from scraper import initiate_scrape
+import schedule, time, os
+from scraper import initiate_scrape, log
+
+PID = str(os.getppid())
+with open('app_id/app.pid', 'w') as file:
+    file.write(PID)
 
 def myFunction():
     initiate_scrape()
-    print("Schedule Loop Running")
+    log("Schedule Loop Running")
 
 if __name__ == "__main__":
     myFunction()
