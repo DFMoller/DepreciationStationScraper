@@ -1,0 +1,1672 @@
+{'message': 'Search for Black Cars of 2015 already exists'}
+{'message': 'Search for Black Cars of 2016 already exists'}
+{'message': 'Search for Black Cars of 2017 already exists'}
+{'message': 'Search for Black Cars of 2018 already exists'}
+{'message': 'Search for Black Cars of 2019 already exists'}
+{'message': 'Search for Black Cars of 2020 already exists'}
+{'message': 'Search for Red Cars of 2015 already exists'}
+{'message': 'Search for Red Cars of 2016 already exists'}
+{'message': 'Search for Red Cars of 2017 already exists'}
+{'message': 'Search for Red Cars of 2018 already exists'}
+{'message': 'Search for Red Cars of 2019 already exists'}
+{'message': 'Search for Red Cars of 2020 already exists'}
+{'message': 'Search for Blue Cars of 2015 already exists'}
+{'message': 'Search for Blue Cars of 2016 already exists'}
+{'message': 'Search for Blue Cars of 2017 already exists'}
+{'message': 'Search for Blue Cars of 2018 already exists'}
+{'message': 'Search for Blue Cars of 2019 already exists'}
+{'message': 'Search for Blue Cars of 2020 already exists'}
+{'message': 'Search for Grey Cars of 2015 already exists'}
+{'message': 'Search for Grey Cars of 2016 already exists'}
+{'message': 'Search for Grey Cars of 2017 already exists'}
+{'message': 'Search for Grey Cars of 2018 already exists'}
+{'message': 'Search for Grey Cars of 2019 already exists'}
+{'message': 'Search for Grey Cars of 2020 already exists'}
+{'message': 'Search for Orange Cars of 2015 already exists'}
+{'message': 'Search for Orange Cars of 2016 already exists'}
+{'message': 'Search for Orange Cars of 2017 already exists'}
+{'message': 'Search for Orange Cars of 2018 already exists'}
+{'message': 'Search for Orange Cars of 2019 already exists'}
+{'message': 'Search for Orange Cars of 2020 already exists'}
+{'message': 'Search for Silver Cars of 2015 already exists'}
+{'message': 'Search for Silver Cars of 2016 already exists'}
+{'message': 'Search for Silver Cars of 2017 already exists'}
+{'message': 'Search for Silver Cars of 2018 already exists'}
+{'message': 'Search for Silver Cars of 2019 already exists'}
+{'message': 'Search for Silver Cars of 2020 already exists'}
+{'message': 'Search for White Cars of 2015 already exists'}
+{'message': 'Search for White Cars of 2016 already exists'}
+{'message': 'Search for White Cars of 2017 already exists'}
+{'message': 'Search for White Cars of 2018 already exists'}
+{'message': 'Search for White Cars of 2019 already exists'}
+{'message': 'Search for White Cars of 2020 already exists'}
+Starting Scrape...
+
+****************************************
+Adding New Searches on: 2021-07-24, 12:28:53
+****************************************
+
+
+****************************************
+Getting All Searches on: 2021-07-24, 12:30:32
+****************************************
+
+Scraping...
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Black
+Number of Results Today: 165
+{'Function': 'POST READINGS DATA', 'current_id': 1, 'items_with_empty_parameters': 0, 'items_already_existing': 165, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Black
+Number of Results Today: 174
+{'Function': 'POST READINGS DATA', 'current_id': 2, 'items_with_empty_parameters': 0, 'items_already_existing': 174, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2017-to-2017&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2017-to-2017&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2017-to-2017&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 148
+{'Function': 'POST READINGS DATA', 'current_id': 3, 'items_with_empty_parameters': 0, 'items_already_existing': 148, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2018-to-2018&colour=Black
+Number of Results Today: 116
+{'Function': 'POST READINGS DATA', 'current_id': 4, 'items_with_empty_parameters': 0, 'items_already_existing': 116, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2019-to-2019&colour=Black
+Number of Results Today: 160
+{'Function': 'POST READINGS DATA', 'current_id': 5, 'items_with_empty_parameters': 0, 'items_already_existing': 160, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2020-to-2020&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 152
+{'Function': 'POST READINGS DATA', 'current_id': 6, 'items_with_empty_parameters': 0, 'items_already_existing': 152, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2015-to-2015&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 318
+{'Function': 'POST READINGS DATA', 'current_id': 7, 'items_with_empty_parameters': 0, 'items_already_existing': 318, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2016-to-2016&colour=Red
+Number of Results Today: 349
+{'Function': 'POST READINGS DATA', 'current_id': 8, 'items_with_empty_parameters': 0, 'items_already_existing': 349, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2017-to-2017&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2017-to-2017&colour=Red
+Number of Results Today: 340
+{'Function': 'POST READINGS DATA', 'current_id': 9, 'items_with_empty_parameters': 0, 'items_already_existing': 340, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2018-to-2018&colour=Red
+Number of Results Today: 291
+{'Function': 'POST READINGS DATA', 'current_id': 10, 'items_with_empty_parameters': 0, 'items_already_existing': 290, 'new_added': 1, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2019-to-2019&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2019-to-2019&colour=Red
+Number of Results Today: 346
+{'Function': 'POST READINGS DATA', 'current_id': 11, 'items_with_empty_parameters': 0, 'items_already_existing': 346, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2020-to-2020&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2020-to-2020&colour=Red
+Number of Results Today: 364
+{'Function': 'POST READINGS DATA', 'current_id': 12, 'items_with_empty_parameters': 0, 'items_already_existing': 363, 'new_added': 1, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2015-to-2015&colour=Blue
+Number of Results Today: 279
+{'Function': 'POST READINGS DATA', 'current_id': 13, 'items_with_empty_parameters': 0, 'items_already_existing': 279, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2016-to-2016&colour=Blue
+Number of Results Today: 373
+{'Function': 'POST READINGS DATA', 'current_id': 14, 'items_with_empty_parameters': 0, 'items_already_existing': 373, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2017-to-2017&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2017-to-2017&colour=Blue
+Number of Results Today: 380
+{'Function': 'POST READINGS DATA', 'current_id': 15, 'items_with_empty_parameters': 0, 'items_already_existing': 380, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2018-to-2018&colour=Blue
+Number of Results Today: 337
+{'Function': 'POST READINGS DATA', 'current_id': 16, 'items_with_empty_parameters': 0, 'items_already_existing': 337, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2019-to-2019&colour=Blue
+Number of Results Today: 360
+{'Function': 'POST READINGS DATA', 'current_id': 17, 'items_with_empty_parameters': 0, 'items_already_existing': 360, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2020-to-2020&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2020-to-2020&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2020-to-2020&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2020-to-2020&colour=Blue
+Number of Results Today: 450
+{'Function': 'POST READINGS DATA', 'current_id': 18, 'items_with_empty_parameters': 0, 'items_already_existing': 450, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2015-to-2015&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2015-to-2015&colour=Grey
+Number of Results Today: 447
+{'Function': 'POST READINGS DATA', 'current_id': 19, 'items_with_empty_parameters': 0, 'items_already_existing': 447, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2016-to-2016&colour=Grey
+Number of Results Today: 532
+{'Function': 'POST READINGS DATA', 'current_id': 20, 'items_with_empty_parameters': 0, 'items_already_existing': 532, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2017-to-2017&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2017-to-2017&colour=Grey
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2017-to-2017&colour=Grey
+Number of Results Today: 546
+{'Function': 'POST READINGS DATA', 'current_id': 21, 'items_with_empty_parameters': 0, 'items_already_existing': 545, 'new_added': 1, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2018-to-2018&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2018-to-2018&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2018-to-2018&colour=Grey
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2018-to-2018&colour=Grey
+Number of Results Today: 593
+{'Function': 'POST READINGS DATA', 'current_id': 22, 'items_with_empty_parameters': 0, 'items_already_existing': 592, 'new_added': 1, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2019-to-2019&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2019-to-2019&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2019-to-2019&colour=Grey
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2019-to-2019&colour=Grey
+Number of Results Today: 603
+{'Function': 'POST READINGS DATA', 'current_id': 23, 'items_with_empty_parameters': 0, 'items_already_existing': 603, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2020-to-2020&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2020-to-2020&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2020-to-2020&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2020-to-2020&colour=Grey
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2020-to-2020&colour=Grey
+Number of Results Today: 677
+{'Function': 'POST READINGS DATA', 'current_id': 24, 'items_with_empty_parameters': 0, 'items_already_existing': 677, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Orange
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Orange
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Orange
+Number of Results Today: 56
+{'Function': 'POST READINGS DATA', 'current_id': 25, 'items_with_empty_parameters': 0, 'items_already_existing': 56, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Orange
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Orange
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Orange
+Number of Results Today: 54
+{'Function': 'POST READINGS DATA', 'current_id': 26, 'items_with_empty_parameters': 0, 'items_already_existing': 54, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Orange
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Orange
+Number of Results Today: 31
+{'Function': 'POST READINGS DATA', 'current_id': 27, 'items_with_empty_parameters': 0, 'items_already_existing': 31, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Orange
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Orange
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Orange
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Orange
+Number of Results Today: 80
+{'Function': 'POST READINGS DATA', 'current_id': 28, 'items_with_empty_parameters': 0, 'items_already_existing': 80, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Orange
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Orange
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Orange
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Orange
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Orange
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 89
+{'Function': 'POST READINGS DATA', 'current_id': 29, 'items_with_empty_parameters': 0, 'items_already_existing': 89, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Orange
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Orange
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Orange
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Orange
+Number of Results Today: 64
+{'Function': 'POST READINGS DATA', 'current_id': 30, 'items_with_empty_parameters': 0, 'items_already_existing': 64, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2015-to-2015&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 40 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=40&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 41 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=41&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&sortorder=Newest&year=2015-to-2015&colour=Silver
+Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&sortorder=Newest&year=2015-to-2015&colour=Silver
+Number of Results Today: 898
+{'Function': 'POST READINGS DATA', 'current_id': 31, 'items_with_empty_parameters': 0, 'items_already_existing': 898, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&sortorder=Newest&year=2016-to-2016&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 40 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=40&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 41 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=41&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&sortorder=Newest&year=2016-to-2016&colour=Silver
+Page: 57 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=57&sortorder=Newest&year=2016-to-2016&colour=Silver
+Number of Results Today: 1131
+{'Function': 'POST READINGS DATA', 'current_id': 32, 'items_with_empty_parameters': 0, 'items_already_existing': 1129, 'new_added': 2, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2017-to-2017&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 40 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=40&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 41 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=41&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&sortorder=Newest&year=2017-to-2017&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&sortorder=Newest&year=2017-to-2017&colour=Silver
+Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&sortorder=Newest&year=2017-to-2017&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&sortorder=Newest&year=2017-to-2017&colour=Silver
+Number of Results Today: 1081
+{'Function': 'POST READINGS DATA', 'current_id': 33, 'items_with_empty_parameters': 0, 'items_already_existing': 1081, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2018-to-2018&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2018-to-2018&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 40 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=40&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 41 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=41&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&sortorder=Newest&year=2018-to-2018&colour=Silver
+Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&sortorder=Newest&year=2018-to-2018&colour=Silver
+Number of Results Today: 936
+{'Function': 'POST READINGS DATA', 'current_id': 34, 'items_with_empty_parameters': 0, 'items_already_existing': 936, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2019-to-2019&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 40 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=40&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 41 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=41&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&sortorder=Newest&year=2019-to-2019&colour=Silver
+Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&sortorder=Newest&year=2019-to-2019&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 1077
+{'Function': 'POST READINGS DATA', 'current_id': 35, 'items_with_empty_parameters': 0, 'items_already_existing': 1077, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 40 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=40&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 41 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=41&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&sortorder=Newest&year=2020-to-2020&colour=Silver
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 57 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=57&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 58 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=58&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 59 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=59&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 60 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=60&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 61 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=61&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 62 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=62&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 63 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=63&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 64 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=64&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 65 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=65&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 66 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=66&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 67 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=67&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 68 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=68&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 69 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=69&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 70 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=70&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 71 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=71&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 72 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=72&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 73 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=73&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 74 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=74&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 75 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=75&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 76 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=76&sortorder=Newest&year=2020-to-2020&colour=Silver
+Page: 77 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=77&sortorder=Newest&year=2020-to-2020&colour=Silver
+Number of Results Today: 1520
+{'Function': 'POST READINGS DATA', 'current_id': 36, 'items_with_empty_parameters': 0, 'items_already_existing': 1519, 'new_added': 1, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2015-to-2015&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&sortorder=Newest&year=2015-to-2015&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&sortorder=Newest&year=2015-to-2015&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 40 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=40&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 41 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=41&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 57 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=57&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 58 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=58&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 59 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=59&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 60 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=60&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 61 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=61&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 62 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=62&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 63 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=63&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 64 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=64&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 65 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=65&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 66 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=66&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 67 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=67&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 68 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=68&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 69 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=69&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 70 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=70&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 71 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=71&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 72 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=72&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 73 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=73&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 74 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=74&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 75 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=75&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 76 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=76&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 77 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=77&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 78 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=78&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 79 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=79&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 80 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=80&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 81 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=81&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 82 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=82&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 83 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=83&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 84 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=84&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 85 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=85&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 86 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=86&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 87 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=87&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 88 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=88&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 89 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=89&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 90 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=90&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 91 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=91&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 92 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=92&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 93 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=93&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 94 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=94&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 95 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=95&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 96 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=96&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 97 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=97&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 98 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=98&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 99 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=99&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 100 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=100&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 101 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=101&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 102 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=102&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 103 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=103&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 104 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=104&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 105 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=105&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 106 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=106&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 107 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=107&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 108 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=108&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 109 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=109&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 110 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=110&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 111 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=111&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 112 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=112&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 113 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=113&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 114 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=114&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 115 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=115&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 116 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=116&sortorder=Newest&year=2015-to-2015&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 117 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=117&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 118 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=118&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 119 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=119&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 120 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=120&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 121 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=121&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 122 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=122&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 123 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=123&sortorder=Newest&year=2015-to-2015&colour=White
+Page: 124 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=124&sortorder=Newest&year=2015-to-2015&colour=White
+Number of Results Today: 2461
+{'Function': 'POST READINGS DATA', 'current_id': 37, 'items_with_empty_parameters': 0, 'items_already_existing': 2461, 'new_added': 0, 'committed': False}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 28 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=28&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 29 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=29&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 30 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=30&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 31 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=31&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 32 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=32&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 33 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=33&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 34 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=34&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 35 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=35&sortorder=Newest&year=2016-to-2016&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 36 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=36&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 37 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=37&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 38 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=38&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 39 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=39&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 40 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=40&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 41 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=41&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 42 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=42&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 43 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=43&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 44 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=44&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 45 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=45&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 46 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=46&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 47 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=47&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 48 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=48&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 49 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=49&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 50 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=50&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 51 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=51&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 52 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=52&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 53 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=53&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 54 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=54&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 55 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=55&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 56 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=56&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 57 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=57&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 58 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=58&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 59 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=59&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 60 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=60&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 61 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=61&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 62 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=62&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 63 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=63&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 64 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=64&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 65 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=65&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 66 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=66&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 67 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=67&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 68 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=68&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 69 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=69&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 70 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=70&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 71 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=71&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 72 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=72&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 73 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=73&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 74 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=74&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 75 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=75&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 76 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=76&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 77 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=77&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 78 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=78&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 79 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=79&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 80 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=80&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 81 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=81&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 82 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=82&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 83 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=83&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 84 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=84&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 85 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=85&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 86 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=86&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 87 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=87&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 88 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=88&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 89 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=89&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 90 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=90&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 91 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=91&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 92 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=92&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 93 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=93&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 94 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=94&sortorder=Newest&year=2016-to-2016&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 95 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=95&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 96 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=96&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 97 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=97&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 98 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=98&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 99 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=99&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 100 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=100&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 101 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=101&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 102 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=102&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 103 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=103&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 104 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=104&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 105 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=105&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 106 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=106&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 107 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=107&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 108 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=108&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 109 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=109&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 110 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=110&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 111 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=111&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 112 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=112&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 113 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=113&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 114 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=114&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 115 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=115&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 116 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=116&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 117 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=117&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 118 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=118&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 119 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=119&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 120 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=120&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 121 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=121&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 122 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=122&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 123 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=123&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 124 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=124&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 125 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=125&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 126 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=126&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 127 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=127&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 128 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=128&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 129 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=129&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 130 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=130&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 131 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=131&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 132 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=132&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 133 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=133&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 134 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=134&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 135 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=135&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 136 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=136&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 137 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=137&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 138 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=138&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 139 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=139&sortorder=Newest&year=2016-to-2016&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 140 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=140&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 141 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=141&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 142 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=142&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 143 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=143&sortorder=Newest&year=2016-to-2016&colour=White
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 144 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=144&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 145 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=145&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 146 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=146&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 147 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=147&sortorder=Newest&year=2016-to-2016&colour=White
+Page: 148 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=148&sortorder=Newest&year=2016-to-2016&colour=White
+Number of Results Today: 2949
+{'message': 'Search for Black Cars of 2015 already exists'}
+{'message': 'Search for Black Cars of 2016 already exists'}
+{'message': 'Search for Black Cars of 2017 already exists'}
+{'message': 'Search for Black Cars of 2018 already exists'}
+{'message': 'Search for Black Cars of 2019 already exists'}
+{'message': 'Search for Black Cars of 2020 already exists'}
+{'message': 'Search for Red Cars of 2015 already exists'}
+{'message': 'Search for Red Cars of 2016 already exists'}
+{'message': 'Search for Red Cars of 2017 already exists'}
+{'message': 'Search for Red Cars of 2018 already exists'}
+{'message': 'Search for Red Cars of 2019 already exists'}
+{'message': 'Search for Red Cars of 2020 already exists'}
+{'message': 'Search for Blue Cars of 2015 already exists'}
+{'message': 'Search for Blue Cars of 2016 already exists'}
+{'message': 'Search for Blue Cars of 2017 already exists'}
+{'message': 'Search for Blue Cars of 2018 already exists'}
+{'message': 'Search for Blue Cars of 2019 already exists'}
+{'message': 'Search for Blue Cars of 2020 already exists'}
+{'message': 'Search for Grey Cars of 2015 already exists'}
+{'message': 'Search for Grey Cars of 2016 already exists'}
+{'message': 'Search for Grey Cars of 2017 already exists'}
+{'message': 'Search for Grey Cars of 2018 already exists'}
+{'message': 'Search for Grey Cars of 2019 already exists'}
+{'message': 'Search for Grey Cars of 2020 already exists'}
+{'message': 'Search for Orange Cars of 2015 already exists'}
+{'message': 'Search for Orange Cars of 2016 already exists'}
+{'message': 'Search for Orange Cars of 2017 already exists'}
+{'message': 'Search for Orange Cars of 2018 already exists'}
+{'message': 'Search for Orange Cars of 2019 already exists'}
+{'message': 'Search for Orange Cars of 2020 already exists'}
+{'message': 'Search for Silver Cars of 2015 already exists'}
+{'message': 'Search for Silver Cars of 2016 already exists'}
+{'message': 'Search for Silver Cars of 2017 already exists'}
+{'message': 'Search for Silver Cars of 2018 already exists'}
+{'message': 'Search for Silver Cars of 2019 already exists'}
+{'message': 'Search for Silver Cars of 2020 already exists'}
+{'message': 'Search for White Cars of 2015 already exists'}
+{'message': 'Search for White Cars of 2016 already exists'}
+{'message': 'Search for White Cars of 2017 already exists'}
+{'message': 'Search for White Cars of 2018 already exists'}
+{'message': 'Search for White Cars of 2019 already exists'}
+{'message': 'Search for White Cars of 2020 already exists'}
+Starting Scrape...
+
+****************************************
+Adding New Searches on: 2021-07-24, 23:43:09
+****************************************
+
+
+****************************************
+Getting All Searches on: 2021-07-25, 21:13:57
+****************************************
+
+Scraping...
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Black
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Black
+Number of Results Today: 167
+{'Function': 'POST READINGS DATA', 'current_id': 1, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 167, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Black
+Number of Results Today: 172
+{'Function': 'POST READINGS DATA', 'current_id': 2, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 172, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2017-to-2017&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2017-to-2017&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2017-to-2017&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2017-to-2017&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 146
+{'Function': 'POST READINGS DATA', 'current_id': 3, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 146, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2018-to-2018&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2018-to-2018&colour=Black
+Number of Results Today: 116
+{'Function': 'POST READINGS DATA', 'current_id': 4, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 116, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2019-to-2019&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2019-to-2019&colour=Black
+Number of Results Today: 159
+{'Function': 'POST READINGS DATA', 'current_id': 5, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 159, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2020-to-2020&colour=Black
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2020-to-2020&colour=Black
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results Today: 151
+{'Function': 'POST READINGS DATA', 'current_id': 6, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 151, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2015-to-2015&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2015-to-2015&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2015-to-2015&colour=Red
+Number of Results Today: 320
+{'Function': 'POST READINGS DATA', 'current_id': 7, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 320, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2016-to-2016&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2016-to-2016&colour=Red
+Number of Results Today: 345
+{'Function': 'POST READINGS DATA', 'current_id': 8, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 345, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2017-to-2017&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2017-to-2017&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2017-to-2017&colour=Red
+Number of Results Today: 341
+{'Function': 'POST READINGS DATA', 'current_id': 9, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 341, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2018-to-2018&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2018-to-2018&colour=Red
+Number of Results Today: 289
+{'Function': 'POST READINGS DATA', 'current_id': 10, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 289, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2019-to-2019&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2019-to-2019&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2019-to-2019&colour=Red
+Number of Results Today: 344
+{'Function': 'POST READINGS DATA', 'current_id': 11, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 344, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2020-to-2020&colour=Red
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2020-to-2020&colour=Red
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2020-to-2020&colour=Red
+Number of Results Today: 365
+{'Function': 'POST READINGS DATA', 'current_id': 12, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 365, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2015-to-2015&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2015-to-2015&colour=Blue
+Number of Results Today: 276
+{'Function': 'POST READINGS DATA', 'current_id': 13, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 276, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2016-to-2016&colour=Blue
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2016-to-2016&colour=Blue
+Number of Results Today: 373
+{'Function': 'POST READINGS DATA', 'current_id': 14, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 373, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2017-to-2017&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2017-to-2017&colour=Blue
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2017-to-2017&colour=Blue
+Number of Results Today: 382
+{'Function': 'POST READINGS DATA', 'current_id': 15, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 382, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2018-to-2018&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2018-to-2018&colour=Blue
+Number of Results Today: 340
+{'Function': 'POST READINGS DATA', 'current_id': 16, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 340, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2019-to-2019&colour=Blue
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2019-to-2019&colour=Blue
+Number of Results Today: 363
+{'Function': 'POST READINGS DATA', 'current_id': 17, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 363, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2020-to-2020&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2020-to-2020&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2020-to-2020&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2020-to-2020&colour=Blue
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2020-to-2020&colour=Blue
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2020-to-2020&colour=Blue
+Number of Results Today: 450
+{'Function': 'POST READINGS DATA', 'current_id': 18, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 450, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2015-to-2015&colour=Grey
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2015-to-2015&colour=Grey
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2015-to-2015&colour=Grey
+Number of Results Today: 443
+{'Function': 'POST READINGS DATA', 'current_id': 19, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 443, 'committed': True}
+Page: 1 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=1&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 2 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=2&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 3 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=3&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 4 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=4&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 5 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=5&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 6 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=6&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 7 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=7&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 8 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=8&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 9 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=9&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 10 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=10&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 11 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=11&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 12 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=12&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 13 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=13&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 14 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=14&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 15 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=15&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 16 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=16&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 17 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=17&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 18 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=18&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 19 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=19&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 20 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=20&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 21 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=21&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 22 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=22&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 23 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=23&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 24 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=24&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 25 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=25&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 26 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=26&sortorder=Newest&year=2016-to-2016&colour=Grey
+Page: 27 -> https://www.autotrader.co.za/cars-for-sale?pagenumber=27&sortorder=Newest&year=2016-to-2016&colour=Grey
+Number of Results Today: 534
+{'Function': 'POST READINGS DATA', 'current_id': 20, 'items_with_empty_parameters': 0, 'items_already_existing': 0, 'new_added': 534, 'committed': True}

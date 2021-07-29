@@ -1,0 +1,5 @@
+View all processes
+ps -aux
+
+Kill the process from CMD
+sudo kill `cat app_id/app.pid`

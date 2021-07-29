@@ -1,50 +1,73 @@
 from bs4 import BeautifulSoup
 import requests
-import datetime
-from datetime import date
-from comm import getSearches, postReadings    
+from datetime import date, datetime
+from comm import addSearches, getSearches, postReadings, postHistory, deleteOldEntries
 
 def url(color, year, page):
     base = 'https://www.autotrader.co.za/cars-for-sale?'
     page_str = 'pagenumber=' + str(page)
+    sort_str = 'sortorder=Newest'
     year_str = 'year=' + str(year) + '-to-' + str(year)
     color_str = "colour=" + color.lower().capitalize()
-    return base + page_str + '&' + year_str + '&' + color_str
+    return base + page_str + '&' + sort_str + '&' + year_str + '&' + color_str
 
-def scrape(f):
+def log(message):
+    # /home/pi/Apps/DepreciationStationScraper/
+    with open("/home/pi/Apps/DepreciationStationScraper/log/" + datetime.now().strftime("%Y-%m-%d") + ".txt", "a") as f:
+        print(message)
+        print(message, file=f)
+
+def scrape():
     
-    print("\n****************************************", file=f)
-    print("Getting All Searches on: " + datetime.datetime.now().strftime("%Y-%m-%d, %H:%M:%S"), file=f)
-    print("****************************************\n", file=f)
-
+    log("Adding New Searches on: " + datetime.now().strftime("%Y-%m-%d, %H:%M:%S"))
+    addSearches()
+    
+    log("Fetching All Searches on: " + datetime.now().strftime("%Y-%m-%d, %H:%M:%S"))
     searches = getSearches()
 
     if not searches:
-        print("ERROR: No Searches Found", file=f)
+        log("ERROR: No Searches Found")
 
-    return_data = []
-
-    print("Scraping...", file=f)
+    log("Scraping...")
     
-    print("Scraping...")
+    final_data = {}
 
     for search in searches:
+        return_data = []
         current_url = url(search['color'], search['year'], 1)
-        html_text = requests.get(current_url).text
+        
+        log("\nScraping for search_id = " + str(search['id']))
+        
+        while True:
+            try:
+                html_text = requests.get(current_url).text
+                break
+            except (requests.ConnectionError, requests.Timeout) as exception:
+                log("Error: " + str(exception))
+                log("Request Causing the error: scrape() -> search_id = " + str(search["id"]))
+            
         soup = BeautifulSoup(html_text, 'lxml')
         search_results = soup.find_all('div', class_='e-available m-has-photos')
         page_numbers = soup.find('div', class_='b-pagination-bar').find('div', class_='gm-show-inline-block').findChildren()
         pages = int(page_numbers[-1].text) # finds last item in list
 
-        for p in range(1):
+        for p in range(pages):
 
             if p > 0:
                 current_url = url(search['color'], search['year'], p+1)
-                html_text = requests.get(current_url).text
+                
+                while True:
+                    try:
+                        html_text = requests.get(current_url).text
+                        break
+                    except (requests.ConnectionError, requests.Timeout) as exception:
+                        log("Error: " + str(exception))
+                        log("Request Causing the error: scrape() -> search_id = " + str(search["id"]) + " & page = " + str(p))
+                              
                 soup = BeautifulSoup(html_text, 'lxml')
                 search_results = soup.find_all('div', class_='e-available m-has-photos')
 
-            print("Page: " + str(p+1) + ' -> ' + current_url, file=f)
+#             log("Page: " + str(p+1) + ' -> ' + current_url)
 
             for index, result in enumerate(search_results):
                 # result_text = result.text.lower()
@@ -77,22 +100,43 @@ def scrape(f):
                             }
                             return_data.append(data_node)
                     except ValueError as err:
-                        print("ValueError Exception: " + str(err), file=f)
+                        log("ValueError Exception: " + str(err))
         
-    print(len(return_data), file=f)
+        log("Number of Results for search_id = " + str(search['id']) + ": " + str(len(return_data)))
     
-    print("Posting Data to DepreciationStation")
+        log("Posting Data to DepreciationStation for search_id = " + str(search["id"]))
 
-    print(postReadings(return_data), file=f)
-
-
+        log(postReadings(return_data))
+        
+        final_data[search["id"]] = return_data
+    
+    log("Posting History Data...")
+    log(postHistory(final_data))
+    log("History Added")
+    
+    log("Deleting old entries...")
+    log(deleteOldEntries())
+    
 
 def initiate_scrape():
-    with open("log/" + datetime.datetime.now().strftime("%Y-%m-%d") + ".txt", "a") as f:
+    
+    url = "http://www.kite.com"
+    timeout = 5
+    
+    log("\n******************************")
+    log("Initiating New Scrape Sequence on: " + datetime.now().strftime("%Y-%m-%d, %H:%M:%S"))
+    log("******************************")
+    flag = False
+    log("No internet connection.")
+    while True:
         try:
-            print("Starting Scrape...")
-            print("Starting Scrape...", file=f)
-            scrape(f)
-            print("Scrape Finished: " + datetime.datetime.now().strftime("%Y-%m-%d, %H:%M:%S"))
-        except ConnectionError as err:
-            print("Connection Error: " + err, file=f)
+            request = requests.get(url, timeout=timeout)
+            log("Connected to the Internet")
+            break
+        except (requests.ConnectionError, requests.Timeout) as exception:
+            # No connection
+            pass
+            
+    log("Starting Scrape...")
+    scrape()
+    log("Scrape Finished: " + datetime.now().strftime("%Y-%m-%d, %H:%M:%S"))

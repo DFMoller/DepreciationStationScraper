@@ -1,0 +1,201 @@
+
+******************************
+Initiating New Scrape Sequence on: 2021-07-29, 15:12:19
+******************************
+Connected to the Internet
+Starting Scrape...
+Adding New Searches on: 2021-07-29, 15:12:20
+{'message': 'Search for Black Cars of 2015 already exists'}
+{'message': 'Search for Black Cars of 2016 already exists'}
+{'message': 'Search for Black Cars of 2017 already exists'}
+{'message': 'Search for Black Cars of 2018 already exists'}
+{'message': 'Search for Black Cars of 2019 already exists'}
+{'message': 'Search for Black Cars of 2020 already exists'}
+{'message': 'Search for Red Cars of 2015 already exists'}
+{'message': 'Search for Red Cars of 2016 already exists'}
+{'message': 'Search for Red Cars of 2017 already exists'}
+{'message': 'Search for Red Cars of 2018 already exists'}
+{'message': 'Search for Red Cars of 2019 already exists'}
+{'message': 'Search for Red Cars of 2020 already exists'}
+{'message': 'Search for Blue Cars of 2015 already exists'}
+{'message': 'Search for Blue Cars of 2016 already exists'}
+{'message': 'Search for Blue Cars of 2017 already exists'}
+{'message': 'Search for Blue Cars of 2018 already exists'}
+{'message': 'Search for Blue Cars of 2019 already exists'}
+{'message': 'Search for Blue Cars of 2020 already exists'}
+{'message': 'Search for Grey Cars of 2015 already exists'}
+{'message': 'Search for Grey Cars of 2016 already exists'}
+{'message': 'Search for Grey Cars of 2017 already exists'}
+{'message': 'Search for Grey Cars of 2018 already exists'}
+{'message': 'Search for Grey Cars of 2019 already exists'}
+{'message': 'Search for Grey Cars of 2020 already exists'}
+{'message': 'Search for Orange Cars of 2015 already exists'}
+{'message': 'Search for Orange Cars of 2016 already exists'}
+{'message': 'Search for Orange Cars of 2017 already exists'}
+{'message': 'Search for Orange Cars of 2018 already exists'}
+{'message': 'Search for Orange Cars of 2019 already exists'}
+{'message': 'Search for Orange Cars of 2020 already exists'}
+{'message': 'Search for Silver Cars of 2015 already exists'}
+{'message': 'Search for Silver Cars of 2016 already exists'}
+{'message': 'Search for Silver Cars of 2017 already exists'}
+{'message': 'Search for Silver Cars of 2018 already exists'}
+{'message': 'Search for Silver Cars of 2019 already exists'}
+{'message': 'Search for Silver Cars of 2020 already exists'}
+{'message': 'Search for White Cars of 2015 already exists'}
+{'message': 'Search for White Cars of 2016 already exists'}
+{'message': 'Search for White Cars of 2017 already exists'}
+{'message': 'Search for White Cars of 2018 already exists'}
+{'message': 'Search for White Cars of 2019 already exists'}
+{'message': 'Search for White Cars of 2020 already exists'}
+Fetching All Searches on: 2021-07-29, 15:12:48
+Scraping...
+
+Scraping for search_id = 1
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 1: 176
+Posting Data to DepreciationStation for search_id = 1
+{'Function': 'POST READINGS DATA', 'current_id': 1, 'items_with_empty_parameters': 0, 'items_already_existing': 176, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 2
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 2: 172
+Posting Data to DepreciationStation for search_id = 2
+{'Function': 'POST READINGS DATA', 'current_id': 2, 'items_with_empty_parameters': 0, 'items_already_existing': 172, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 3
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 3: 155
+Posting Data to DepreciationStation for search_id = 3
+{'Function': 'POST READINGS DATA', 'current_id': 3, 'items_with_empty_parameters': 0, 'items_already_existing': 155, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 4
+Number of Results for search_id = 4: 116
+Posting Data to DepreciationStation for search_id = 4
+{'Function': 'POST READINGS DATA', 'current_id': 4, 'items_with_empty_parameters': 0, 'items_already_existing': 116, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 5
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 5: 159
+Posting Data to DepreciationStation for search_id = 5
+{'Function': 'POST READINGS DATA', 'current_id': 5, 'items_with_empty_parameters': 0, 'items_already_existing': 159, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 6
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 6: 152
+Posting Data to DepreciationStation for search_id = 6
+{'Function': 'POST READINGS DATA', 'current_id': 6, 'items_with_empty_parameters': 0, 'items_already_existing': 152, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 7
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 7: 324
+Posting Data to DepreciationStation for search_id = 7
+{'Function': 'POST READINGS DATA', 'current_id': 7, 'items_with_empty_parameters': 0, 'items_already_existing': 323, 'new_added': 1, 'committed': True}
+
+Scraping for search_id = 8
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 8: 334
+Posting Data to DepreciationStation for search_id = 8
+{'Function': 'POST READINGS DATA', 'current_id': 8, 'items_with_empty_parameters': 0, 'items_already_existing': 334, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 9
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+
+******************************
+Initiating New Scrape Sequence on: 2021-07-29, 15:58:21
+******************************
+Connected to the Internet
+Starting Scrape...
+Adding New Searches on: 2021-07-29, 15:58:28
+{'message': 'Search for Black Cars of 2015 already exists'}
+{'message': 'Search for Black Cars of 2016 already exists'}
+{'message': 'Search for Black Cars of 2017 already exists'}
+{'message': 'Search for Black Cars of 2018 already exists'}
+{'message': 'Search for Black Cars of 2019 already exists'}
+{'message': 'Search for Black Cars of 2020 already exists'}
+{'message': 'Search for Red Cars of 2015 already exists'}
+{'message': 'Search for Red Cars of 2016 already exists'}
+{'message': 'Search for Red Cars of 2017 already exists'}
+{'message': 'Search for Red Cars of 2018 already exists'}
+{'message': 'Search for Red Cars of 2019 already exists'}
+{'message': 'Search for Red Cars of 2020 already exists'}
+{'message': 'Search for Blue Cars of 2015 already exists'}
+{'message': 'Search for Blue Cars of 2016 already exists'}
+{'message': 'Search for Blue Cars of 2017 already exists'}
+{'message': 'Search for Blue Cars of 2018 already exists'}
+{'message': 'Search for Blue Cars of 2019 already exists'}
+{'message': 'Search for Blue Cars of 2020 already exists'}
+{'message': 'Search for Grey Cars of 2015 already exists'}
+{'message': 'Search for Grey Cars of 2016 already exists'}
+{'message': 'Search for Grey Cars of 2017 already exists'}
+{'message': 'Search for Grey Cars of 2018 already exists'}
+{'message': 'Search for Grey Cars of 2019 already exists'}
+{'message': 'Search for Grey Cars of 2020 already exists'}
+{'message': 'Search for Orange Cars of 2015 already exists'}
+{'message': 'Search for Orange Cars of 2016 already exists'}
+{'message': 'Search for Orange Cars of 2017 already exists'}
+{'message': 'Search for Orange Cars of 2018 already exists'}
+{'message': 'Search for Orange Cars of 2019 already exists'}
+{'message': 'Search for Orange Cars of 2020 already exists'}
+{'message': 'Search for Silver Cars of 2015 already exists'}
+{'message': 'Search for Silver Cars of 2016 already exists'}
+{'message': 'Search for Silver Cars of 2017 already exists'}
+{'message': 'Search for Silver Cars of 2018 already exists'}
+{'message': 'Search for Silver Cars of 2019 already exists'}
+{'message': 'Search for Silver Cars of 2020 already exists'}
+{'message': 'Search for White Cars of 2015 already exists'}
+{'message': 'Search for White Cars of 2016 already exists'}
+{'message': 'Search for White Cars of 2017 already exists'}
+{'message': 'Search for White Cars of 2018 already exists'}
+{'message': 'Search for White Cars of 2019 already exists'}
+{'message': 'Search for White Cars of 2020 already exists'}
+Fetching All Searches on: 2021-07-29, 16:01:13
+Scraping...
+
+Scraping for search_id = 1
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 1: 176
+Posting Data to DepreciationStation for search_id = 1
+{'Function': 'POST READINGS DATA', 'current_id': 1, 'items_with_empty_parameters': 0, 'items_already_existing': 176, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 2
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 2: 172
+Posting Data to DepreciationStation for search_id = 2
+{'Function': 'POST READINGS DATA', 'current_id': 2, 'items_with_empty_parameters': 0, 'items_already_existing': 172, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 3
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 3: 155
+Posting Data to DepreciationStation for search_id = 3
+{'Function': 'POST READINGS DATA', 'current_id': 3, 'items_with_empty_parameters': 0, 'items_already_existing': 155, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 4
+Number of Results for search_id = 4: 117
+Posting Data to DepreciationStation for search_id = 4
+JSON Decode Error when posting Readings: Expecting value: line 1 column 1 (char 0)
+Request Causing the error: PostReadings() -> search_id = 4
+{'Function': 'POST READINGS DATA', 'current_id': 4, 'items_with_empty_parameters': 0, 'items_already_existing': 116, 'new_added': 1, 'committed': True}
+
+Scraping for search_id = 5
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 5: 159
+Posting Data to DepreciationStation for search_id = 5
+{'Function': 'POST READINGS DATA', 'current_id': 5, 'items_with_empty_parameters': 0, 'items_already_existing': 159, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 6
+ValueError Exception: invalid literal for int() with base 10: 'POA'
+Number of Results for search_id = 6: 151
+Posting Data to DepreciationStation for search_id = 6
+{'Function': 'POST READINGS DATA', 'current_id': 6, 'items_with_empty_parameters': 0, 'items_already_existing': 151, 'new_added': 0, 'committed': False}
+
+Scraping for search_id = 7
