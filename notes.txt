@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 View all processes
 ps -aux
 
 Kill the process from CMD
 sudo kill `cat app_id/app.pid`
+=======
+Kill the process from CMD
+sudo kill `cat /tmp/app.pid`
+>>>>>>> ad327f40d172fe9b03283d136376dd70c2638db1

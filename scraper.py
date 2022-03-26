@@ -13,7 +13,11 @@ def url(color, year, page):
 
 def log(message):
     # /home/pi/Apps/DepreciationStationScraper/
+<<<<<<< HEAD
     with open("/home/pi/Apps/DepreciationStationScraper/log/" + datetime.now().strftime("%Y-%m-%d") + ".txt", "a") as f:
+=======
+    with open("log/" + datetime.now().strftime("%Y-%m-%d") + ".txt", "a") as f:
+>>>>>>> ad327f40d172fe9b03283d136376dd70c2638db1
         print(message)
         print(message, file=f)
 
@@ -126,16 +130,23 @@ def initiate_scrape():
     log("\n******************************")
     log("Initiating New Scrape Sequence on: " + datetime.now().strftime("%Y-%m-%d, %H:%M:%S"))
     log("******************************")
+<<<<<<< HEAD
     flag = False
     log("No internet connection.")
+=======
+>>>>>>> ad327f40d172fe9b03283d136376dd70c2638db1
     while True:
         try:
             request = requests.get(url, timeout=timeout)
             log("Connected to the Internet")
             break
         except (requests.ConnectionError, requests.Timeout) as exception:
+<<<<<<< HEAD
             # No connection
             pass
+=======
+            log("No internet connection.")
+>>>>>>> ad327f40d172fe9b03283d136376dd70c2638db1
             
     log("Starting Scrape...")
     scrape()
