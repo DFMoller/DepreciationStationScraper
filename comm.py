@@ -13,7 +13,8 @@ def log(message):
 
 BASE = "http://dfmoller.pythonanywhere.com/"
 
-colors = ["black", "red", "blue", "grey", "orange", "silver", "white"]
+# old_colors = ["black", "red", "blue", "grey", "orange", "silver", "white"]
+colors = ["white", "silver", "grey", "black", "blue", "red", "orange"]
 years = [2015, 2016, 2017, 2018, 2019, 2020]
 
     
