@@ -14,7 +14,7 @@ def log(message):
 BASE = "http://dfmoller.pythonanywhere.com/"
 
 colors = ["black", "red", "blue", "grey", "orange", "silver", "white"]
-years = [2015, 2016, 2017, 2018, 2019, 2020]
+years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
 
     
 def addSearches():
