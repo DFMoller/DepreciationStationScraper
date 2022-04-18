@@ -1,3 +1,4 @@
+from urllib.request import Request
 import requests, json, datetime
 from pandas import DataFrame
 from datetime import date, datetime
@@ -61,6 +62,7 @@ def postReadings(post_data):
         except ValueError as err:
             log("JSON Decode Error when posting Readings: " + str(err))
             log("Request Causing the error: PostReadings() -> search_id = " + str(post_data[0]['search_id']))
+            log(f'Response from Server: \n\t{response.content}')
             
 
 def postHistory(data):
