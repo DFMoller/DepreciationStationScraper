@@ -80,9 +80,9 @@ def postHistory(data):
             "date": date.today().strftime("%d/%m/%Y"),
             "median_value": int(median_value)
         }
-        if search_id == 1:
-            print(sorted_df)
-            print("Median Value: " + str(median_value))
+        # if search_id == 1:
+        #     print(sorted_df)
+        #     print("Median Value: " + str(median_value))
     
     while True:
         try:
