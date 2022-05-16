@@ -70,7 +70,7 @@ def scrape():
 
             for index, result in enumerate(search_results):
                 # result_text = result.text.lower()
-                stats = result.find('span', class_='e-icons').find_all('span')
+                stats = result.find_all('li', class_="e-summary-icon")
                 link = result.find_all("a", href=True)[0]['href']
                 if len(stats) == 3:
                     try:
